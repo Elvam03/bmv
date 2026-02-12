@@ -192,9 +192,9 @@ const LandingPage = () => {
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               onClick={copyLink}
-              className="w-full bg-pink-600 text-white py-2 rounded-lg"
+              className="w-full bg-pink-700 text-white py-2 rounded-lg"
             >
-              Copy Link 💖
+              Copy Link 💖 (send to someone special)
             </motion.button>
           </motion.div>
         )}
